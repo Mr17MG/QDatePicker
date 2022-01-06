@@ -3,12 +3,10 @@ Simple QML date picker.
 
 
 ## How to use
----
 __See example__.
 
 
 ## Features
------
 - Support all calendar of QCalendar::availableCalendars()
 - Support all locale of Qt
 - Time picker
@@ -17,7 +15,6 @@ __See example__.
 
 
 ## Demo
------
 ![QDatePicker Demo 01
 ](./screenshots/demo-01.png)
 
